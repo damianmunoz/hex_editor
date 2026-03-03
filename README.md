@@ -15,8 +15,8 @@ NavVis - Navegador y Visor de Archivos
  * CONTROLES VISOR (texto y hex):
  *   Flechas Arriba/Abajo  — línea anterior / siguiente
  *   PgUp / PgDn           — página anterior / siguiente
- *   < o Home              — inicio del archivo
- *   > o End               — final del archivo
+ *   < / Home              — inicio del archivo
+ *   > / End               — final del archivo
  *   g                     — ir a línea/offset específico
  *   t / h                 — alternar entre vista Texto y Hex
  *   q / ESC               — volver al navegador
