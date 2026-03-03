@@ -16,7 +16,7 @@ NavVis - Navegador y Visor de Archivos
   * Flechas Arriba/Abajo  — línea anterior / siguiente
   * PgUp / PgDn           — página anterior / siguiente
   * < / Home              — inicio del archivo
-  * / End               — final del archivo
+  * ">" / End               — final del archivo
   * g                     — ir a línea/offset específico
   * t / h                 — alternar entre vista Texto y Hex
   * q / ESC               — volver al navegador
